@@ -30,7 +30,7 @@ y=temp
 print("Swapped values are:",x,y)
 ```
 ## OUTPUT:
-![output](/Swapoutput.png)
+![OUTPUT](/Swapoutput.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
